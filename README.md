@@ -1,8 +1,7 @@
 # Movie Database Investigation
 
 This notebook documents an exploratory data wrangling effort I made using a CSV file made from data taken from The Movie 
-Database. Unlike the more widely-known IMDb, which is owned by a subsidiary of Amazon.com as of 1998, TMDb remains user-operated
-and user-editable, and therefore its data on films is free to access by anyone.
+Database. Unlike the more widely-known IMDb, which is owned by a subsidiary of Amazon.com as of 1998, TMDb remains user-operated and user-edited, and therefore its film data is free to access by anyone.
 
 The information in the CSV file used for this project covers a range of films made from 1960 to 2015. My work consists of:
 
