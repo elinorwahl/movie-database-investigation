@@ -7,7 +7,7 @@ The information in the CSV file used for this project covers a range of films ma
 
 - Making initial observations of the data to determine what is missing, duplicated, and helpful or unhelpful to analysis;
 - Cleaning the data, including adjustment of numbers that might wrongly skew analysis;
-- Plotting and making observations on the popularity of distinct film genres across the years;
-- Plotting and making observations on the link between a film's budget, its revenue, and its TMDb popularity score.
+- Plotting and making observations on the frequency of film genres across the years;
+- Plotting and making observations on the link between film budgets, revenue, and TMDb popularity score.
 
 I hope you find it interesting and informative. Enjoy!
