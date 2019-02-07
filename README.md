@@ -5,7 +5,7 @@ Database. Unlike the more widely-known IMDb, which is owned by a subsidiary of A
 
 The information in the CSV file used for this project covers a range of films made from 1960 to 2015. My work consists of:
 
-- Making initial observations of the data to determine what is missing, duplicated, and helpful or unhelpful to analysis;
+- Making initial observations of the data to find out what information is missing, duplicated, or helpful/unhelpful to analysis;
 - Cleaning the data, including adjustment of numbers that might wrongly skew analysis;
 - Plotting and making observations on the frequency of film genres across the years;
 - Plotting and making observations on the link between film budgets, revenue, and TMDb popularity score.
